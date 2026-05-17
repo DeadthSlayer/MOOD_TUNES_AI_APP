@@ -1,0 +1,21 @@
+{
+  "name": "moodtune-ai",
+  "version": "1.0.0",
+  "description": "Node-free full-stack MoodTune AI app using static React, TailwindCSS, Framer Motion, FastAPI, and Spotify Web API.",
+  "private": true,
+  "scripts": {
+    "note": "No Node.js scripts are required. Run the app with Python/FastAPI: uvicorn backend.app.main:app --reload"
+  },
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "framer-motion",
+    "fastapi",
+    "spotify",
+    "music",
+    "mood"
+  ],
+  "engines": {
+    "node": "not-required"
+  }
+}
